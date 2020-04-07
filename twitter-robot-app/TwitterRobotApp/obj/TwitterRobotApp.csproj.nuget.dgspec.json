@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alexandrej\\source\\repos\\TwitterRobotApp\\TwitterRobotApp\\TwitterRobotApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alexandrej\\source\\repos\\TwitterRobotApp\\TwitterRobotApp\\TwitterRobotApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexandrej\\source\\repos\\TwitterRobotApp\\TwitterRobotApp\\TwitterRobotApp.csproj",
+        "projectName": "TwitterRobotApp",
+        "projectPath": "C:\\Users\\alexandrej\\source\\repos\\TwitterRobotApp\\TwitterRobotApp\\TwitterRobotApp.csproj",
+        "packagesPath": "C:\\Users\\alexandrej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexandrej\\source\\repos\\TwitterRobotApp\\TwitterRobotApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandrej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://mitsuinugetserver:8081/repository/Framework/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "TweetinviAPI": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
