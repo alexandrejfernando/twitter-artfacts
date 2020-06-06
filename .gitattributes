@@ -1,0 +1,13 @@
+# These files can be converted, since they're new
+
+.gitattributes        crlf
+
+.gitignore        crlf
+
+
+
+# Visual Basic 6.0 only supports CRLF line endings
+
+*.bas eol=crlf
+
+*.cls eol=crlf
