@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterController", "Twitte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitterRobotEngine", "..\twitterRobotEngine\twitterRobotEngine\twitterRobotEngine.csproj", "{7D3319CB-46A3-4F11-A305-C46659B89BA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitterControllerTestProject", "..\twitterControllerTestProject\twitterControllerTestProject\twitterControllerTestProject.csproj", "{D2D8E5E8-D9A9-454D-8CC2-6E2CB1405903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7D3319CB-46A3-4F11-A305-C46659B89BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D3319CB-46A3-4F11-A305-C46659B89BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D3319CB-46A3-4F11-A305-C46659B89BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D8E5E8-D9A9-454D-8CC2-6E2CB1405903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D8E5E8-D9A9-454D-8CC2-6E2CB1405903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D8E5E8-D9A9-454D-8CC2-6E2CB1405903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D8E5E8-D9A9-454D-8CC2-6E2CB1405903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
