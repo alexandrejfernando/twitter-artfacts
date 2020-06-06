@@ -1,9 +1,0 @@
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\obj\Debug\netcoreapp3.1\twitterRobotEngine.csprojAssemblyReference.cache
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\obj\Debug\netcoreapp3.1\twitterRobotEngine.csproj.CoreCompileInputs.cache
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\obj\Debug\netcoreapp3.1\twitterRobotEngine.AssemblyInfoInputs.cache
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\obj\Debug\netcoreapp3.1\twitterRobotEngine.AssemblyInfo.cs
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\bin\Debug\netcoreapp3.1\twitterRobotEngine.deps.json
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\bin\Debug\netcoreapp3.1\twitterRobotEngine.dll
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\bin\Debug\netcoreapp3.1\twitterRobotEngine.pdb
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\obj\Debug\netcoreapp3.1\twitterRobotEngine.dll
-C:\github\alexandrejfernando@hotmail.com\twitterRobotEngine\twitterRobotEngine\obj\Debug\netcoreapp3.1\twitterRobotEngine.pdb
