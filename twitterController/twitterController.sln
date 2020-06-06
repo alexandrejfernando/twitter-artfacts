@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterController", "TwitterController\TwitterController.csproj", "{44346147-917C-48A5-A50C-79E1E03EE712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitterRobotEngine", "..\twitterRobotEngine\twitterRobotEngine\twitterRobotEngine.csproj", "{7D3319CB-46A3-4F11-A305-C46659B89BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44346147-917C-48A5-A50C-79E1E03EE712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44346147-917C-48A5-A50C-79E1E03EE712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44346147-917C-48A5-A50C-79E1E03EE712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44346147-917C-48A5-A50C-79E1E03EE712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3319CB-46A3-4F11-A305-C46659B89BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3319CB-46A3-4F11-A305-C46659B89BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3319CB-46A3-4F11-A305-C46659B89BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3319CB-46A3-4F11-A305-C46659B89BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54167F79-5E37-4E57-B281-9D713A982017}
+	EndGlobalSection
+EndGlobal

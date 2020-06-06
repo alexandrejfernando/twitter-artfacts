@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\github\\alexandrejfernando@hotmail.com\\twitter-artfacts\\twitterRobotEngine\\twitterRobotEngine\\twitterRobotEngine.csproj": {}
+  },
+  "projects": {
+    "C:\\github\\alexandrejfernando@hotmail.com\\twitter-artfacts\\twitterRobotEngine\\twitterRobotEngine\\twitterRobotEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\alexandrejfernando@hotmail.com\\twitter-artfacts\\twitterRobotEngine\\twitterRobotEngine\\twitterRobotEngine.csproj",
+        "projectName": "twitterRobotEngine",
+        "projectPath": "C:\\github\\alexandrejfernando@hotmail.com\\twitter-artfacts\\twitterRobotEngine\\twitterRobotEngine\\twitterRobotEngine.csproj",
+        "packagesPath": "C:\\Users\\alexandrej\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\alexandrejfernando@hotmail.com\\twitter-artfacts\\twitterRobotEngine\\twitterRobotEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\alexandrej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://mitsuinugetserver:8081/repository/Framework/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "TweetinviAPI": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "TweetinviAPI-1.3.0-JsonLanguageConverterFix": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
