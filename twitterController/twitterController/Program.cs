@@ -16,7 +16,6 @@ namespace Twittosfera
             formController.WindowState = FormWindowState.Maximized;
             formController.Executar();
 
-            tw
         }
     }
 }
